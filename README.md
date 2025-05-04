@@ -1,7 +1,7 @@
 # System-Sleuth-Assist
 
-src/main.tsx - Entry point for the React application
-src/App.tsx - Main application component with router setup
+#src/main.tsx - Entry point for the React application
+#src/App.tsx - Main application component with router setup
 src/index.css - Global CSS styles including Tailwind configurations
 src/pages/Index.tsx - Main page component
 src/pages/NotFound.tsx - 404 error page
